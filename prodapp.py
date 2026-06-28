@@ -1,3 +1,6 @@
 print('feature1')
 print('feature2')
 print('feature3')
+print('local1')
+print('local2')
+print('local3')
